@@ -4,7 +4,7 @@ My UX/Product Design portfolio, featuring selected projects across complex syste
 
 ## Portfolio
 
-[View portfolio](https://louiseved.github.io/louved-portfolio/)
+[View portfolio](https://louiseved.github.io/portfolio/project-1.html))
 
 ## Selected work
 
